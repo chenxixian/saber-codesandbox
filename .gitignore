@@ -1,4 +1,4 @@
-node_modules
-*.log
 .saber
+*.log
 public
+node_modules
